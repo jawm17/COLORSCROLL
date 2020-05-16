@@ -39,6 +39,12 @@ body {
   .color-red {
     background-color: #F2293A;
   }
+  .color-black {
+    background-color: #000;
+  }
+  .color-pink {
+    background-color: #FF1493;
+  }
   
   /* styling for demo, can ignore */
   body {
